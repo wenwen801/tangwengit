@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property(nonatomic,strong)NSString *lab1;
+
 @end
 
 @implementation ViewController
