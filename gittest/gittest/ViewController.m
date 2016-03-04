@@ -12,7 +12,7 @@
 
 @property(nonatomic,strong)NSString *lab1;
 @property(nonatomic,strong)NSString *lab2;
-
+@property(nonatomic,strong)NSString *lab3;
 @end
 
 @implementation ViewController
