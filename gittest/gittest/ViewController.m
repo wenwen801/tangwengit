@@ -11,13 +11,14 @@
 @interface ViewController ()
 
 @property(nonatomic,strong)NSString *lab1;
-
+@property (nonatomic,strong)UIImageView *tw;
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
