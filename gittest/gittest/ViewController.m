@@ -11,6 +11,7 @@
 @interface ViewController ()
 
 @property(nonatomic,strong)NSString *lab1;
+@property(nonatomic,strong)NSString *lab2;
 
 @end
 
